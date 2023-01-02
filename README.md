@@ -21,6 +21,33 @@ El juego de tres en raya es uno de los juegos m'as comunes que existen a nivel m
 ## Instrucciones Windows  
 IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
 
-
-
+Si no se desea instalar aplicaciones dentro del computador existen las opciones de compiladores online en este caso se recomienda dos compiladores como:  
+- ***OnlineGDB**
+1 Abrir el navegador y buscar online GDB.  
+2 Registrarse si no tiene una cuenta.  
+3 Abrir o cargar el documento.  
+4 Verificar que en la parte superior izquierda esté el lenguaje de C++.  
+5 Compilar el programa.  
+- ***Replit***
+1 Abrir el navegador y buscar replit.  
+2 Registrarse si no tiene una cuenta.  
+3 Abrir o cargar el documento.  
+4 Verificar el lenguaje de C++.  
+5 Compilar el programa.  
 ## Instrucciones Linux  
+IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
+
+Si no se desea instalar aplicaciones dentro del computador existen las opciones de compiladores online en este caso se recomienda dos compiladores como:  
+
+- ***OnlineGDB**
+1 Abrir el navegador y buscar online GDB.  
+2 Registrarse si no tiene una cuenta.  
+3 Abrir o cargar el documento.  
+4 Verificar que en la parte superior izquierda esté el lenguaje de C++.  
+5 Compilar el programa.  
+
+- ***Replit***
+1 Abrir el navegador y buscar replit.  
+2 Registrarse si no tiene una cuenta.  
+3 Abrir o cargar el documento.  
+4 Verificar el lenguaje de C++.
