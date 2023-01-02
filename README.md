@@ -19,5 +19,8 @@ El juego de tres en raya es uno de los juegos m'as comunes que existen a nivel m
 - ***Humano:*** Los humanos no necesariamente mantienen un ritmo seguro o estático esto varía dependiendo de las personas que realicenla actividad aun así en términos generales estadísticos en el mejor de los casos se tiene una respuesta de movimiento en los primeros 10 o 20 segundos, mientras que en el peor de los casos el tiempo de respuesta puede llegar a tardar entre 1 o 2 minutos, cabe recalcar que aun así la respuesta no siempre es correcta o efectiva.  
 ## Arbol de posibilidades  
 ## Instrucciones Windows  
-IDE: Se puede descargar y utilizar un IDE, como Visual Studio Code para correr el programa, se debe instalar el IDE de preferencia, con sus respectivos plugins para compilar cierto lenguaje y finalmente se deberá abrir el archivo que se desea ejecutar y correrlo.
+IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
+
+
+
 ## Instrucciones Linux  
