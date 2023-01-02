@@ -29,6 +29,7 @@ Si no se desea instalar aplicaciones dentro del computador existen las opciones 
 3 Abrir o cargar el documento.  
 4 Verificar que en la parte superior izquierda esté el lenguaje de C++.  
 5 Compilar el programa.  
+
 - ***Replit***  
 1 Abrir el navegador y buscar replit.  
 2 Registrarse si no tiene una cuenta.  
