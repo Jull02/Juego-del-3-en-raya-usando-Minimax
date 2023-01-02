@@ -39,14 +39,14 @@ IDE: Para poder compilar el programa una opción puede ser descargar un IDE como
 
 Si no se desea instalar aplicaciones dentro del computador existen las opciones de compiladores online en este caso se recomienda dos compiladores como:  
 
-- ***OnlineGDB**
+- ***OnlineGDB**  
 1 Abrir el navegador y buscar online GDB.  
 2 Registrarse si no tiene una cuenta.  
 3 Abrir o cargar el documento.  
 4 Verificar que en la parte superior izquierda esté el lenguaje de C++.  
 5 Compilar el programa.  
 
-- ***Replit***
+- ***Replit***  
 1 Abrir el navegador y buscar replit.  
 2 Registrarse si no tiene una cuenta.  
 3 Abrir o cargar el documento.  
