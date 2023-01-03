@@ -56,7 +56,7 @@ Si no se desea instalar aplicaciones dentro del computador existen las opciones 
 ## Instrucciones Linux  
 - IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
 
-- - CMD: Para compilar el código desde el cmd se recomienda realizar una instalación desde el cmd colocando "sudo apt install gcc", luego escribir "sudo apt get install g++", una vez instalado en la cmd se puede escribir el siguiente comando "g++ main.cpp funciones3Raya.hpp -o nombreCompilacion".  
+- CMD: Para compilar el código desde el cmd se recomienda realizar una instalación desde el cmd colocando "sudo apt install gcc", luego escribir "sudo apt get install g++", una vez instalado en la cmd se puede escribir el siguiente comando "g++ main.cpp funciones3Raya.hpp -o nombreCompilacion".  
 
 Si no se desea instalar aplicaciones dentro del computador existen las opciones de compiladores online en este caso se recomienda dos compiladores como:  
 
