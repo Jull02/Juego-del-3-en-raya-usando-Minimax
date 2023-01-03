@@ -14,7 +14,7 @@ El juego de tres en raya es uno de los juegos m'as comunes que existen a nivel m
 - ***Función showBoard:*** La función showBoard recibe el tablero y muestra el tablero en la consola.  
 - ***Función declareWinner:*** La función declareWinner recibe el turno actual y muestra en la consola el ganador.  
 ## Tabla de tiempos mejores y peores casos  
-17Dentro de la experiencia de máquina vs humano existen varias posibilidades dondr la maquina puede ser mejor que el humano o viceversa, de tal manera existen casos peores y mejores de cada uno, dentro de la historia las primeras maquinas no mantenian un tiempo vorto ni estandarizadoby la mayoria de desiciones que tomaba el computador dentro de un juego de logica lo llevaba a la perfida del mismo haciendo que el ganador sea el humano, esto ha ido cambiando con el pasar de los años y en la actualidad gracias a la inteligencia artificial se ha podido ver como las máquinas han mejorado tanto su tiempo de desición y la efectividad de la misma al punto de que en algunas partidas o juegos completos de lógica las máquinashan salido victoriosas.  
+Dentro de la experiencia de máquina vs humano existen varias posibilidades dondr la maquina puede ser mejor que el humano o viceversa, de tal manera existen casos peores y mejores de cada uno, dentro de la historia las primeras maquinas no mantenian un tiempo vorto ni estandarizadoby la mayoria de desiciones que tomaba el computador dentro de un juego de logica lo llevaba a la perfida del mismo haciendo que el ganador sea el humano, esto ha ido cambiando con el pasar de los años y en la actualidad gracias a la inteligencia artificial se ha podido ver como las máquinas han mejorado tanto su tiempo de desición y la efectividad de la misma al punto de que en algunas partidas o juegos completos de lógica las máquinashan salido victoriosas.  
 - ***Computadora:*** Las máquinas en la actualidad se puede decir que han mejorado en todo sentido pero cuando se trata de juegos de lógica como el tres en raya muestra que su tiempo al tomar la desicion de realizar un movimiento es de 1 segundo e incluso menos dependiendo de la situación, lo que quiere decir que toma desiciones rápidas pero eso no quiere decir que sea la desicion correcta o efectiva necesariamente. Todo esto se da gracias a que existen algoritmos programados para la computadora en donde verifica los peores y mejores casos o respuestas de una manera rápida pero no necesariamente efectiva.  
 - ***Humano:*** Los humanos no necesariamente mantienen un ritmo seguro o estático esto varía dependiendo de las personas que realicenla actividad aun así en términos generales estadísticos en el mejor de los casos se tiene una respuesta de movimiento en los primeros 10 o 20 segundos, mientras que en el peor de los casos el tiempo de respuesta puede llegar a tardar entre 1 o 2 minutos, cabe recalcar que aun así la respuesta no siempre es correcta o efectiva.  
 ## Arbol de posibilidades  
@@ -40,7 +40,7 @@ De esta forma, cuando se llega a un nodo final, se utiliza una función de evalu
 
 Si no se desea instalar aplicaciones dentro del computador existen las opciones de compiladores online en este caso se recomienda dos compiladores como:  
 
-- ***OnlineGDB**  
+- ***OnlineGDB***  
 1 Abrir el navegador y buscar online GDB.  
 2 Registrarse si no tiene una cuenta.  
 3 Abrir o cargar el documento.  
@@ -60,7 +60,7 @@ Si no se desea instalar aplicaciones dentro del computador existen las opciones 
 
 Si no se desea instalar aplicaciones dentro del computador existen las opciones de compiladores online en este caso se recomienda dos compiladores como:  
 
-- ***OnlineGDB**  
+- ***OnlineGDB***  
 1 Abrir el navegador y buscar online GDB.  
 2 Registrarse si no tiene una cuenta.  
 3 Abrir o cargar el documento.  
