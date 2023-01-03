@@ -26,7 +26,12 @@ El número de nodos hoja en el árbol del juego completo es el número de posibl
 
 El algoritmo Minimax crea un árbol basado en el estado actual del juego. Digamos que es el turno de la computadora para pasar al siguiente turno. Con base en el estado actual del juego, crea un nodo derivado para todas las posibles acciones legales que puede tomar la computadora (se refiere la computadora como el jugador MAX). En el siguiente nivel, para cada posible movimiento del ordenador, generamos los posibles movimientos legales que debe realizar el jugador (se llama al jugador usuario MIN), y así hasta llegar al nodo con el resultado. La computadora gana, el jugador gana, o es un empate. En otras palabras, en cada nivel del árbol, los jugadores MAX se alternan con los jugadores MIN (de ahí el nombre de estrategia minimax). Si marcamos los nodos MAX con cuadrados y los nodos MIN con círculos, el posible árbol minimax se ve así.  
 
-![Boceto árbol]("")  
+![minimax](https://user-images.githubusercontent.com/87248845/210288400-3e04c69b-62b7-4a02-ab12-a179b72327cd.png)  
+
+De esta forma, cuando se llega a un nodo final, se utiliza una función de evaluación que evalúa las probabilidades y les asigna un valor numérico. En el caso del tres en raya, la funcionalidad es muy sencilla. Por ejemplo, podemos asignar 1 a un nodo terminal donde gana la computadora, 0 a un empate y -1 a que gane un jugador humano. El algoritmo evalúa cada nivel del árbol de abajo hacia arriba, en el nivel MAX elige caminos que conducen a puntajes más altos que son beneficiosos para la computadora, y en el nivel MIN intenta elegir caminos con puntajes más bajos, ya que penalizaría un jugador humano.  
+
+![minimax_tres_raya](https://user-images.githubusercontent.com/87248845/210288650-bdbc7cd0-3c38-404f-a183-02202ec045bb.png)
+
 
 ## Instrucciones Windows  
 IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
