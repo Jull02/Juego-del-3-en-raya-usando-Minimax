@@ -34,7 +34,9 @@ De esta forma, cuando se llega a un nodo final, se utiliza una función de evalu
 
 
 ## Instrucciones Windows  
-IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
+- IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
+
+- CMD: Para compilar el código desde el cmd se recomienda usar un compilador externo como Mingw que se lo puede descargar desde el navegador, una vez instalado en la cmd se puede escribir el siguiente comando "g++ nombreArchivo -o nombredelejecutable".
 
 Si no se desea instalar aplicaciones dentro del computador existen las opciones de compiladores online en este caso se recomienda dos compiladores como:  
 
@@ -52,7 +54,9 @@ Si no se desea instalar aplicaciones dentro del computador existen las opciones 
 4 Verificar el lenguaje de C++.  
 5 Compilar el programa.  
 ## Instrucciones Linux  
-IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
+- IDE: Para poder compilar el programa una opción puede ser descargar un IDE como Visual Studio Code con todas las configuraciones necesarias, por medio del IDE abrir el documento, verificar que este configurado los plugins del lenguaje en este caso C++ y luego compilarlo.  
+
+- - CMD: Para compilar el código desde el cmd se recomienda realizar una instalación desde el cmd colocando "sudo apt install gcc", luego escribir "sudo apt get install g++", una vez instalado en la cmd se puede escribir el siguiente comando "g++ main.cpp funciones3Raya.hpp -o nombreCompilacion".  
 
 Si no se desea instalar aplicaciones dentro del computador existen las opciones de compiladores online en este caso se recomienda dos compiladores como:  
 
